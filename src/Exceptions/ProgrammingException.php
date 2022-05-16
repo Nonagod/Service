@@ -1,6 +1,6 @@
 <?php
-namespace Nonagod\Service\Exceptions;
+namespace Nonagod\Exceptions;
 
-use Nonagod\Service\Exceptions\SystemException;
+use Nonagod\Exceptions\SystemException;
 
 class ProgrammingException extends SystemException {}

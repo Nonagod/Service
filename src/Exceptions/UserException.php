@@ -1,4 +1,4 @@
 <?php
-namespace Nonagod\Service\Exceptions;
+namespace Nonagod\Exceptions;
 
 class UserException extends \Exception {}
